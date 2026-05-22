@@ -1,9 +1,0 @@
-{
-  "version": "1.1",
-  "downloadURL": "https://raw.githubusercontent.com/ShineTools1333/ShineComputerInventory/main/Shine%20Computer%20Inventory.zip",
-  "notes": [
-    "Added background update installer",
-    "Improved agent sync behavior",
-    "Bug fixes"
-  ]
-}
