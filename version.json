@@ -1,9 +1,12 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "downloadURL": "https://raw.githubusercontent.com/ShineTools1333/ShineInventory/main/Shine%20Inventory.zip",
   "notes": [
-    "SNAPPY",
-    "Improved agent sync behavior",
+    "Much smoother UI",
+    "New condensed and view toggles",
+    "New save button when editing manually",
+    "Now displays current Adobe Software versions",
+    "Taller online computer viewer window",
     "Bug fixes"
   ]
 }
