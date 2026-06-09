@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "downloadURL": "https://raw.githubusercontent.com/ShineTools1333/ShineInventory/main/Shine%20Inventory.zip",
   "notes": [
     "Much smoother UI",
@@ -7,6 +7,10 @@
     "New save button when editing manually",
     "Now displays current Adobe Software versions",
     "Taller online computer viewer window",
+    "Moved to Synology Server",
+    "New Global Settings to control all agents",
+    "View Only Mode",
+    "UI Improvements",
     "Bug fixes"
   ]
 }
